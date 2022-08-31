@@ -1,0 +1,335 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Cristina",
+      "surnames": "R Pampín",
+      "title": "Frontend Developer at Grupo Solutio",
+      "description": "Siempre aprendiendo, maestra y frontend. \nDi un cambio de sector a finales de 2018 y llevo desde 2020 trabajando como frontend. Me apasiona el mundo tech, mi trabajo como maestra me acercó a Python y Scratch y a raíz de ahí vino JavaScript y dejarlo todo para ser front. \nMi background anterior me ha aportado skills que utilizo en mi día a día, sobre todo la adaptación al cambio. No me da miedo enfrentarme a nuevos retos, me flipa aprender y probar cosas nuevas, trabajo mejor en equipo que sola, me preocupa la accesibilidad y la inclusión.",
+      "avatar": {
+        "alt": "cris.png",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/31/226d50b4-29b9-4340-8008-ee538e3319f3_cris.png"
+      },
+      "location": {
+        "notes": "Santiago de Compostela"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "github",
+        "URL": "https://github.com/cristinapampin"
+      },
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/cristina_pampin"
+      },
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/cristinarivaspampin/"
+      }
+    ],
+    "interestingFacts": [
+      {
+        "topic": "Co-organizadora de eventos tech",
+        "fact": "Co-organizo varios eventos tech en España: WTM Spain, LicorcaConf, GDG Galicia, WTM Santiago... "
+      },
+      {
+        "topic": "Podcaster ",
+        "fact": "Tengo un podcast y no soy influencer jajaja pero escúchanos en Tech&Ladies que damos voz a mujeres en tech. Llevamos 30 episodios a lo largo de 2 temporadas.\nhttps://open.spotify.com/show/0lTGoOCIFblNuVUCEOaBqP\n"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "GRUPO SOLUTIO",
+          "URL": "https://www.linkedin.com/company/grupo-solutio?trk=public_profile_experience-item_profile-section-card_subtitle-click"
+        },
+        "roles": [
+          {
+            "name": "Frontend developer",
+            "startDate": "2021-06-01",
+            "challenges": [
+              {
+                "description": "Desarrollo con Angular diversas aplicaciones para un importante cliente a nivel internacional. En mi día a día trabajo desarrollando nuevas funcionalidades para ampliar y mejorar la experiencia del usuario. Trabajo con: entorno Microsoft, GIT, Jira, CI/CD Azure, metodologías ágiles. Desarrollo con Angular diversas aplicaciones para un importante cliente a nivel internacional. En mi día a día trabajo desarrollando nuevas funcionalidades para ampliar y mejorar la experiencia del usuario. Trabajo con: entorno Microsoft, GIT, Jira, CI/CD Azure, metodologías ágiles."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Angular2+",
+                "type": "technology"
+              },
+              {
+                "name": "Azure",
+                "type": "technology"
+              },
+              {
+                "name": "Git",
+                "type": "technology"
+              },
+              {
+                "name": "Jira",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "dooingIT",
+          "URL": "https://www.linkedin.com/company/dooingit?trk=public_profile_experience-item_profile-section-card_subtitle-click"
+        },
+        "roles": [
+          {
+            "name": "Junior Frontend Developer",
+            "startDate": "2020-09-01",
+            "finishDate": "2021-06-30",
+            "challenges": [
+              {
+                "description": "Desarrollo de interfaces de usuario para aplicaciones web en React y Django para diversos clientes, en entornos CI/CD. He añadido funcionalidades a una plataforma de ciberseguros con Django 3 y he implementado, entre otras cosas, el rediseño de varias interfaces adaptadas a los distintos clientes. He desarrollado una aplicación para gestión de ventas en backoffice con React (typescript), basada en formularios reactivos y visualización de datos que se conectan mediante interfaces REST con servicios de datos. Todo ello usando GIT para el control de versiones y Jira para gestionar las tareas del backlog."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Angular2+",
+                "type": "technology"
+              },
+              {
+                "name": "Azure",
+                "type": "technology"
+              },
+              {
+                "name": "Django",
+                "type": "technology"
+              },
+              {
+                "name": "Git",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Invbit"
+        },
+        "roles": [
+          {
+            "name": "Junior Frontend Developer",
+            "startDate": "2020-06-01",
+            "finishDate": "2020-08-01",
+            "challenges": [
+              {
+                "description": "Breve pero intenso. Personalicé una app de Ionic que tenía un Woocommerce como backend. La mayoría de tareas eran de CSS, aunque alguna funcionalidad tuve que desarrollar. \nCuando se terminó el proyecto, no tenían nada más de Ionic ni React, que era lo que estaba buscando."
+              }
+            ],
+            "competences": [
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "Ionic",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "WooCommerce",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Plexus Tech",
+          "URL": "https://www.linkedin.com/company/plexus-tech?trk=public_profile_experience-item_profile-section-card_subtitle-click"
+        },
+        "roles": [
+          {
+            "name": " Junior Frontend Developer",
+            "startDate": "2020-03-01",
+            "finishDate": "2020-06-30",
+            "challenges": [
+              {
+                "description": "Desarrollo de interfaces de usuario para aplicaciones web en Angular para cliente del sector bancario. He estado integrada en dos equipos de trabajo, en el primero de ellos utilizando metodologías ágiles, he trabajado con Angular 8, Firebase como base de datos reactiva y Git para el control de versiones. En el segundo proyecto, he implementado funcionalidades en una plataforma ecommerce en Angular 6, realizando principalmente formularios y reportes de datos que se conectan mediante interfaces REST con servicios de datos, usando SVN para el control de versiones."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Angular2+",
+                "type": "technology"
+              },
+              {
+                "name": "Firebase",
+                "type": "technology"
+              },
+              {
+                "name": "Git",
+                "type": "technology"
+              },
+              {
+                "name": "Subversion",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "Galician"
+      },
+      {
+        "name": "Spanish"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Angular2+",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Git",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Scss",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Bootstrap",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JSON",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Programa IT Force (Angular 8) de ABANCA Angular, desarrollo web",
+        "startDate": "2019-01-01",
+        "finishDate": "2019-12-31",
+        "institution": {
+          "name": "IESIDE",
+          "URL": "https://www.linkedin.com/school/ieside/?trk=public_profile_school_profile-section-card_full-click"
+        }
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Ciclo Superior de Desarrollo de Aplicaciones Web (sin finalizar)",
+        "startDate": "2018-01-01",
+        "finishDate": "2020-12-31",
+        "institution": {
+          "name": "IES San Clemente"
+        }
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Grado en maestra de educación primaria",
+        "startDate": "2012-09-01",
+        "finishDate": "2016-07-01",
+        "institution": {
+          "name": "USC"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/cristinarivaspampin/"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "Angular2+",
+          "type": "technology"
+        },
+        {
+          "name": "JavaScript",
+          "type": "technology"
+        },
+        {
+          "name": "React",
+          "type": "technology"
+        },
+        {
+          "name": "TypeScript",
+          "type": "technology"
+        },
+        {
+          "name": "Vue",
+          "type": "technology"
+        }
+      ],
+      "discardedCompetences": [
+        {
+          "name": "AngularJS",
+          "type": "technology"
+        }
+      ]
+    }
+  }
+}
