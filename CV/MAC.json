@@ -15,7 +15,9 @@
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/31/226d50b4-29b9-4340-8008-ee538e3319f3_cris.png"
       },
       "location": {
-        "notes": "Santiago de Compostela"
+        "country": "España",
+        "region": "Galicia",
+        "municipality": "Santiago de Compostela"
       }
     },
     "relevantLinks": [
@@ -56,7 +58,7 @@
             "startDate": "2021-06-01",
             "challenges": [
               {
-                "description": "Desarrollo con Angular diversas aplicaciones para un importante cliente a nivel internacional. En mi día a día trabajo desarrollando nuevas funcionalidades para ampliar y mejorar la experiencia del usuario. Trabajo con: entorno Microsoft, GIT, Jira, CI/CD Azure, metodologías ágiles. "
+                "description": "Desarrollo con Angular diversas aplicaciones para un importante cliente a nivel internacional. En mi día a día trabajo desarrollando nuevas funcionalidades para ampliar y mejorar la experiencia del usuario. Trabajo con: entorno Microsoft, GIT, Jira, CI/CD Azure, metodologías ágiles, testing... "
               }
             ],
             "competences": [
@@ -73,7 +75,15 @@
                 "type": "technology"
               },
               {
+                "name": "Jasmine",
+                "type": "technology"
+              },
+              {
                 "name": "Jira",
+                "type": "technology"
+              },
+              {
+                "name": "Karma",
                 "type": "technology"
               },
               {
@@ -329,6 +339,9 @@
           "name": "AngularJS",
           "type": "technology"
         }
+      ],
+      "preferredRoles": [
+        "Frontend Developer"
       ]
     }
   }
