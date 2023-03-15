@@ -101,12 +101,12 @@
         },
         "roles": [
           {
-            "name": "Junior Frontend Developer",
+            "name": "Frontend Developer",
             "startDate": "2020-09-01",
             "finishDate": "2021-06-30",
             "challenges": [
               {
-                "description": "Desarrollo de interfaces de usuario para aplicaciones web en React y Django para diversos clientes, en entornos CI/CD. He añadido funcionalidades a una plataforma de ciberseguros con Django 3 y he implementado, entre otras cosas, el rediseño de varias interfaces adaptadas a los distintos clientes. He desarrollado una aplicación para gestión de ventas en backoffice con React (typescript), basada en formularios reactivos y visualización de datos que se conectan mediante interfaces REST con servicios de datos. Todo ello usando GIT para el control de versiones y Jira para gestionar las tareas del backlog."
+                "description": "Trabajé en una aplicación de ciberseguros desarrollada con React. Añadí nuevas características y rediseñé los componentes existentes para mejorar la funcionalidad y la experiencia del usuario. \nDesarrollé una aplicación de administración de ventas de back-office utilizando Angular con formularios reactivos, integrándose con servicios de datos a través de interfaces REST y Azure AD para una autorización segura. \nContribuí a los flujos de CI/CD usando Azure DevOps y Git para el control de versiones."
               }
             ],
             "competences": [
