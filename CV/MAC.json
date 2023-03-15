@@ -150,7 +150,7 @@
             "finishDate": "2020-06-30",
             "challenges": [
               {
-                "description": "Desarrollo de interfaces de usuario para aplicaciones web en Angular para cliente del sector bancario. He estado integrada en dos equipos de trabajo, en el primero de ellos utilizando metodologías ágiles, he trabajado con Angular 8, Firebase como base de datos reactiva y Git para el control de versiones. En el segundo proyecto, he implementado funcionalidades en una plataforma ecommerce en Angular 6, realizando principalmente formularios y reportes de datos que se conectan mediante interfaces REST con servicios de datos, usando SVN para el control de versiones."
+                "description": "Desarrollé interfaces de usuario para aplicaciones web en Angular para Abanca, una de las mayores empresas de banca en España. \nContribuí al desarrollo de una plataforma de comercio electrónico con Angular 6, implementando funcionalidades como formularios y reportes de datos que se conectan a través de interfaces REST con servicios de datos."
               }
             ],
             "competences": [
@@ -164,10 +164,6 @@
               },
               {
                 "name": "Git",
-                "type": "technology"
-              },
-              {
-                "name": "Subversion",
                 "type": "technology"
               },
               {
