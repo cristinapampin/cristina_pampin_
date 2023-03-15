@@ -58,7 +58,7 @@
             "startDate": "2021-06-01",
             "challenges": [
               {
-                "description": "Desarrollo con Angular diversas aplicaciones para un importante cliente a nivel internacional. En mi día a día trabajo desarrollando nuevas funcionalidades para ampliar y mejorar la experiencia del usuario. Trabajo con: entorno Microsoft, GIT, Jira, CI/CD Azure, metodologías ágiles, testing... "
+                "description": "Desarrollé aplicaciones frontend usando Angular para un cliente educativo, administrando una cartera de 5 aplicaciones.\nUtilicé CI/CD con Azure para agilizar el proceso de implementación y mejorar la calidad del código, y Git para el control de versiones.\nImplementé TDD y testing para mejorar el rendimiento general de la aplicación y la experiencia del usuario.\nColaboré con equipos multifuncionales para recopilar requisitos, identificar puntos débiles e implementar soluciones.\nRefiné continuamente los procesos y flujos de trabajo para optimizar la eficiencia y mantener un nivel de calidad alto.\nImplementé funciones de autenticación y autorización seguras utilizando Azure Active Directory (AD)."
               }
             ],
             "competences": [
