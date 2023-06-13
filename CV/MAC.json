@@ -11,30 +11,16 @@
       "title": "Frontend Developer at Grupo Solutio",
       "description": "Siempre aprendiendo, maestra y frontend. \nDi un cambio de sector a finales de 2018 y llevo desde 2020 trabajando como frontend. Me apasiona el mundo tech, mi trabajo como maestra me acercó a Python y Scratch y a raíz de ahí vino JavaScript y dejarlo todo para ser front. \nMi background anterior me ha aportado skills que utilizo en mi día a día, sobre todo la adaptación al cambio. No me da miedo enfrentarme a nuevos retos, me flipa aprender y probar cosas nuevas, trabajo mejor en equipo que sola, me preocupa la accesibilidad y la inclusión.",
       "avatar": {
-        "alt": "cris.png",
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/31/226d50b4-29b9-4340-8008-ee538e3319f3_cris.png"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/31/226d50b4-29b9-4340-8008-ee538e3319f3_cris.png",
+        "alt": "cris.png"
       },
       "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJp3Hd4kT-Lg0REeOHwIhoFOA)",
         "country": "España",
         "region": "Galicia",
-        "municipality": "Santiago de Compostela",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "Santiago de Compostela"
       }
     },
-    "relevantLinks": [
-      {
-        "type": "github",
-        "URL": "https://github.com/cristinapampin"
-      },
-      {
-        "type": "twitter",
-        "URL": "https://twitter.com/cristina_pampin"
-      },
-      {
-        "type": "linkedin",
-        "URL": "https://www.linkedin.com/in/cristinarivaspampin/"
-      }
-    ],
     "interestingFacts": [
       {
         "topic": "Co-organizadora de eventos tech",
@@ -160,11 +146,11 @@
                 "type": "technology"
               },
               {
-                "name": "Firebase",
+                "name": "Git",
                 "type": "technology"
               },
               {
-                "name": "Git",
+                "name": "Google Firebase",
                 "type": "technology"
               },
               {
@@ -180,36 +166,18 @@
   "knowledge": {
     "languages": [
       {
-        "name": "Galician",
+        "name": "ES",
         "level": "Native or bilingual proficiency"
       },
       {
-        "name": "Spanish",
+        "name": "GL",
         "level": "Native or bilingual proficiency"
       }
     ],
     "hardSkills": [
       {
         "skill": {
-          "name": "JavaScript",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Angular2+",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Git",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Scss",
           "type": "technology"
         }
       },
@@ -221,7 +189,7 @@
       },
       {
         "skill": {
-          "name": "React",
+          "name": "Git",
           "type": "technology"
         }
       },
@@ -230,41 +198,76 @@
           "name": "JSON",
           "type": "technology"
         }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Scss",
+          "type": "technology"
+        }
       }
     ],
     "studies": [
       {
         "studyType": "officialDegree",
         "degreeAchieved": true,
-        "name": "Programa IT Force (Angular 8) de ABANCA Angular, desarrollo web",
-        "startDate": "2019-01-01",
-        "finishDate": "2019-12-31",
-        "institution": {
-          "name": "IESIDE",
-          "description": "",
-          "URL": "https://www.linkedin.com/school/ieside/?trk=public_profile_school_profile-section-card_full-click"
-        }
-      },
-      {
-        "studyType": "officialDegree",
-        "degreeAchieved": true,
         "name": "Ciclo Superior de Desarrollo de Aplicaciones Web (sin finalizar)",
         "startDate": "2018-01-01",
-        "finishDate": "2020-12-31",
         "institution": {
-          "name": "IES San Clemente",
-          "description": ""
-        }
+          "name": "IES San Clemente"
+        },
+        "finishDate": "2020-12-31"
       },
       {
         "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "Grado en maestra de educación primaria",
         "startDate": "2012-09-01",
-        "finishDate": "2016-07-01",
         "institution": {
-          "name": "USC",
-          "description": ""
+          "name": "USC"
+        },
+        "finishDate": "2016-07-01"
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Programa IT Force (Angular 8) de ABANCA Angular, desarrollo web",
+        "startDate": "2019-01-01",
+        "institution": {
+          "name": "IESIDE",
+          "URL": "https://www.linkedin.com/school/ieside/?trk=public_profile_school_profile-section-card_full-click"
+        },
+        "finishDate": "2019-12-31"
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Adaptabilidad al cambio",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Atención al detalle",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Trabajo en equipo",
+          "type": "practice"
         }
       }
     ]
@@ -273,8 +276,25 @@
     "contact": {
       "publicProfiles": [
         {
-          "type": "linkedin",
-          "URL": "https://www.linkedin.com/in/cristinarivaspampin/"
+          "URL": "https://www.linkedin.com/in/cristinarivaspampin/",
+          "type": "linkedin"
+        },
+        {
+          "URL": "https://github.com/cristinapampin",
+          "type": "other"
+        },
+        {
+          "URL": "https://twitter.com/cristina_pampin",
+          "type": "other"
+        }
+      ],
+      "contactMails": [
+        "cristina.rpampin@gmail.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "604034263",
+          "countryCode": "+34"
         }
       ]
     },
@@ -320,5 +340,9 @@
       ]
     },
     "status": "searchingActively"
+  },
+  "manfredSpecificData": {
+    "desiredJobDescription": "Me gustaría trabajar en un equipo diverso, en el que las buenas prácticas sean la base de todo.  \nEntre los perks que más me aportan: horario flexible sin duda y tiempo/recursos para formación.",
+    "goodPractices": "TDD, clean code (friki de buscar un naming adecuado), he trabajado en entornos agile y no he muerto."
   }
 }
